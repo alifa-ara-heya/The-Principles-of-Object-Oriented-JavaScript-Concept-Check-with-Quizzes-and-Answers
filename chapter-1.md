@@ -1,8 +1,5 @@
-# The-Principles-of-Object-Oriented-JavaScript-Concept-Check-with-Quizzes-and-Answers
 
-Sure — here's the complete Markdown study note with every question including the a/b/c/d options and the correct answers shown.
-
-📘 JavaScript Quiz Notes
+## 📘 JavaScript Quiz Notes
 
 Based on The Principles of Object-Oriented JavaScript, Chapter 1: Primitive and Reference Types
 
